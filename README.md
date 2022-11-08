@@ -5,6 +5,8 @@ The official repository of the paper: COLD: A Benchmark for Chinese Offensive La
 
 Paper link: https://arxiv.org/abs/2201.06025
 
+Detector: We release the version of [roberta-base-cold](https://huggingface.co/thu-coai/roberta-base-cold?text=%E4%BD%A0%E6%98%AF%E4%B8%8D%E6%98%AF%E5%82%BB) in Huggingface.
+
 # News
 Our paper has been accepted by EMNLP 2022!
 
