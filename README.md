@@ -30,10 +30,15 @@ fine-grained-label in test.csv:
 Please kindly cite our paper if this paper and the dataset are helpful.
 ```
   @article{deng2022cold,
-  title={Cold: A benchmark for chinese offensive language detection},
-  author={Deng, Jiawen and Zhou, Jingyan and Sun, Hao and Mi, Fei and Huang, Minlie},
-  journal={arXiv preprint arXiv:2201.06025},
-  year={2022}
+  title="Cold: A benchmark for chinese offensive language detection",
+  author= "Deng, Jiawen and Zhou, Jingyan and Sun, Hao and Mi, Fei and Huang, Minlie",
+  booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+  month = dec,
+  year = "2022",
+  address = "Abu Dhabi, United Arab Emirates",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2022.emnlp-main.796",
+  pages = "11580--11599"
 }
 ```
 
